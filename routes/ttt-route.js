@@ -9,7 +9,7 @@ const {
 
 const router = express.Router()
 
-// GET all ttt
+// GET all ttt docs
 router.get('/', getTTTs)
 
 // GET a single ttt
